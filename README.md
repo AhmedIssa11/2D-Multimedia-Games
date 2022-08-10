@@ -2,6 +2,8 @@
 
 Computer graphics C# 2D simple games from scratch
 
+in this course i created more than 15 simple game and this is a sample from them.
+
 ## Wizard Game Video
 <div align="left">
       <a href="https://youtu.be/UTQU8yUY__c">
